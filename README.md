@@ -53,6 +53,7 @@ If you found our implementation to be useful, feel free to use the citation:
   title={Towards exemplar-free continual learning in vision transformers: an account of attention, functional and weight regularization},
   author={Pelosin, Francesco and Jha, Saurav and Torsello, Andrea and Raducanu, Bogdan and van de Weijer, Joost},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booksubtitle = {Workshop on Continual Learning},
   pages={3820--3829},
   year={2022}
 }
