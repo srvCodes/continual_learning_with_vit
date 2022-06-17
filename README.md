@@ -36,3 +36,4 @@ This repo is based on [FACIL](https://github.com/mmasana/FACIL).
 
 <div align="center">
 <img src="./docs/_static/facil_logo.png" width="100px">
+</div>
