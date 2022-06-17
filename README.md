@@ -37,7 +37,7 @@ The corresponding runs for symmetric variants would then be:
 >>> python3 -u src/main_incremental.py --datasets imagenet_32_reduced --network Early_conv_vit --approach olwf_asympost --nepochs $NEPOCHS --log disk --batch-size 1024 --gpu $GPU --exp-name dummy_functional_exp --lr 0.01 --seed ${seed} --lamb 1.0 --num-tasks $NUM_TASKS --nc-first-task $NC_FIRST_TASK --lr-patience 20 --plast_mu 1.0 --pool-along 'height' --sym 
 ```
 
-Current available approaches with Vision Transformers include:
+Other available continual learning approaches with Vision Transformers include:
 <div align="center">
 <p align="center"><b>
   EWC • Finetuning • LwF • PathInt 
