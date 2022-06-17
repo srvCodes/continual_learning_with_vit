@@ -42,7 +42,7 @@ Current available approaches with Vision Transformers include:
   EWC • Finetuning • LwF • PathInt 
 </b></p>
 </div>
-The detailed scripts for our experiments can be found in `scripts/`.
+The detailed scripts for our experiments can be found in ```scripts/```.
 
 ## Cite
 If you found our implementation to be useful, feel free to use the citation:
