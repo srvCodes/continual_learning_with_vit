@@ -1,7 +1,8 @@
 # Continual Learning with Vistion Transformers
 This repo is the official implementation of our CVPR 2022 workshop paper "Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization".
 
-![alt text](https://github.com/srvCodes/continual_learning_with_vit/blob/main/docs/_static/att_fun.png | width=100)
+<div align="center">
+<img src="./docs/_static/att_fun.png" width="100px">
 
 ## Running the code
 
