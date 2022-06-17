@@ -2,13 +2,13 @@
 This repo hosts the official implementation of our CVPR 2022 workshop paper [Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Pelosin_Towards_Exemplar-Free_Continual_Learning_in_Vision_Transformers_An_Account_of_CVPRW_2022_paper.html).
 
 <div align="center">
-<img src="./docs/_static/att_fun.png" width="500px">
+<img src="./docs/_static/att_fun.png" width="300px">
 </div>
 
 ## Running the code
 
 <div align="center">
-<img src="./docs/_static/asym_illustration(1).png" width="300px">
+<img src="./docs/_static/asym_illustration(1).png" width="500px">
 </div>
 
 
