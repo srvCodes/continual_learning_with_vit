@@ -39,9 +39,7 @@ The corresponding runs for symmetric variants would then be:
 Current available approaches with Vision Transformers include:
 <div align="center">
 <p align="center"><b>
-  EWC • Finetuning  
-
-  LwF • PathInt 
+  EWC • Finetuning • LwF • PathInt 
 </b></p>
 </div>
 The detailed scripts for our experiments can be found in `scripts/`.
