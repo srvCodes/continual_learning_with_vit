@@ -7,7 +7,7 @@ This repo is the official implementation of our CVPR 2022 workshop paper "Toward
 
 Scripts for our experiments can be found in `scripts/`.
 
-Based on: 
+This repo is based on [FACIL](https://github.com/mmasana/FACIL).
 
 <div align="center">
 <img src="./docs/_static/facil_logo.png" width="100px">
