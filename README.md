@@ -1,6 +1,7 @@
 # Continual Learning with Vistion Transformers
 This repo hosts the official implementation of our CVPR 2022 workshop paper [Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Pelosin_Towards_Exemplar-Free_Continual_Learning_in_Vision_Transformers_An_Account_of_CVPRW_2022_paper.html).
 
+TLDR; We introduce attentional and functional variants for asymmetric and symmetric Pooled Attention Distillation (PAD) losses:
 <div align="center">
 <img src="./docs/_static/att_fun.png" width="300px">
 </div>
@@ -42,7 +43,8 @@ Current available approaches with Vision Transformers include:
   EWC • Finetuning • LwF • PathInt 
 </b></p>
 </div>
-The detailed scripts for our experiments can be found in `scripts/`.
+
+The detailed scripts for our experiments can be found in `scripts/` repo.
 
 ## Cite
 If you found our implementation to be useful, feel free to use the citation:
