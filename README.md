@@ -1,6 +1,6 @@
 # Continual Learning with Vision Transformers
 
-> Update: Our paper wins the best runnerup award at the [CLVision workshop](https://sites.google.com/view/clvision2022/call-for-papers/accepted-papers).
+> Update: Our paper wins the best runner-up award at the [3rd CLVision workshop](https://sites.google.com/view/clvision2022/call-for-papers/accepted-papers).
 
 This repo hosts the official implementation of our CVPR 2022 workshop paper [Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization](https://openaccess.thecvf.com/content/CVPR2022W/CLVision/html/Pelosin_Towards_Exemplar-Free_Continual_Learning_in_Vision_Transformers_An_Account_of_CVPRW_2022_paper.html).
 
